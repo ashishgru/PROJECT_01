@@ -1,0 +1,7 @@
+#Mon Jan 02 21:13:44 IST 2017
+base.0=D\:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_65e5eb798146447cb88bf9cb065c003210c12990
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49910c780fcc2c58744b55abc6385566ee9ae73f\\classes.dex
+base.1=D\:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49910c780fcc2c58744b55abc6385566ee9ae73f
+file.0=D\:\\Andriod\\PROJECT_1.1\\ToDoList-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_65e5eb798146447cb88bf9cb065c003210c12990\\classes.dex

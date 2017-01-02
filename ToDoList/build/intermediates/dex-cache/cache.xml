@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_c697c1030cc6c345c76a40081f9bcfd97f687814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_b5a65ab7d2d6ac5f17bbc3870dd0dee177dfbef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_857098d0258d994469b203ee69955c7c2bb1ab82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_05acd6058b31308e543b6dbc329524f0b7159980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_0913b0e4edff0a625a44ef2cb96200b4d755df56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.1.0_5fbd7db811a2708a3ca05441cd67f18167f0f26c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93081d73890aded902778a519ffb50eaa0ae1396">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_65e5eb798146447cb88bf9cb065c003210c12990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_6f943939674847fd7c62c7fb844f833e2fc3e05b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_3a7d69beaabab370d3aa920e7084c282ef9895bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_584505a8d17b30437bf6ebd3a60cece217371212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.github.ganfra\material-spinner\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a973f67796996adb991bd6e63a11b2b88a571219">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.ganfra-material-spinner-1.1.0_d516d93bed8b09f5a81a5e4ee0c96d6af283467f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3c15dd877bfdfbbd71f0d2f4c5139b52fd04735">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.wdullaer-materialdatetimepicker-1.5.1_3b7c243d486481de309f97270888329ea57e2c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a8050807a82f51953342d4ca9bedd230b89762e">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_49910c780fcc2c58744b55abc6385566ee9ae73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.0_a37ab3a7af1c11430c62ea67db74ddaaa1410ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Andriod\PROJECT_1.1\ToDoList-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_4a84ba6ae33452743049cd3b513892d0ae1deea3\classes.dex" />
+    </item>
+
+</items>
